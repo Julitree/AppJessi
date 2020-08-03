@@ -1,1 +1,1 @@
-# AppJessi
+# JessiApp
